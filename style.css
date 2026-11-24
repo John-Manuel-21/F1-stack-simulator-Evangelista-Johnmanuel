@@ -24,9 +24,18 @@ body{
     justify-content: flex-end;
     flex-direction: column;
  }
+ .peek{
+   background-color: gold;
+ }
 .bg-7B8FA1{
     background-color: #7B8FA1;
 }   
 .bg-9C254D{
     background-color: #9C254D;
+}
+
+.highlight{
+    background-color: gold !important;
+    color: black !important;
+    outline: 4px solid white;
 }
